@@ -1,2 +1,2 @@
-# capstone-2026_beta
+# capstone-2026
 Capstone project — no-show prediction model_test
